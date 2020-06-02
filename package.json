@@ -1,0 +1,23 @@
+{
+  "name": "express-boilerplate",
+  "version": "1.0.0",
+  "description": "Minimal code for deploying node app in heroku (or similar)",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app"
+  },
+  "keywords": [
+    "node",
+    "nodejs",
+    "js",
+    "boilerplate",
+    "express",
+    "express"
+  ],
+  "author": "Didier Gomez (didier.gomezlemus@gmail.com)",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
